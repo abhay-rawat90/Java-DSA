@@ -1,23 +1,21 @@
-Java Coding Questions Collection
-This repository contains all the Java programming questions I have solved so far, focusing on data structures, algorithms, and problem-solving techniques. The solutions showcase my proficiency in Java, especially with hash tables, priority queues, and other core concepts relevant to coding interviews and competitive programming.
+📘 DSA Practice Questions Repository
+This repository contains a collection of all the Data Structures and Algorithms (DSA) questions I’ve solved so far, including solutions, explanations, and problem details. The problems are sourced from various coding platforms like LeetCode, GeeksforGeeks, CodeStudio, etc.
 
-Contents
-Well-documented Java solutions for a wide variety of algorithmic problems
+🔍 What’s Included:
+✅ Solved questions categorized by topic (e.g., Arrays, Strings, Linked Lists, Trees, Graphs, DP, etc.)
 
-Approaches explained through comments and clean code
+💡 Well-commented code for better understanding
 
-Focus on efficiency and readability
+📂 Organized structure for easy navigation
 
-Purpose
-This collection serves as:
+🔁 Continuous updates as I solve more problems
 
-A personal archive of my progress in mastering Java and algorithmic problem-solving
+📚 Purpose:
+This repo serves as a personal archive and revision tool for interview preparation, competitive programming, and deepening DSA knowledge.
 
-A resource for others preparing for coding interviews or learning advanced Java techniques
+💻 How to Use:
+Clone the repo
 
-A demonstration of my coding style and problem-solving approach
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/abhay-rawat90/Java-DSA.git)
 
-How to Use
-Browse the folders or files by topic or problem type
-
-Feel free to fork or reference these solutions for learning or interview preparation
+Browse by topic/folder or search for a specific question.
